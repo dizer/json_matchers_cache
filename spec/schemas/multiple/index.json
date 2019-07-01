@@ -1,0 +1,36 @@
+{
+  "id": "file:/multiple/index.json#",
+  "type": "object",
+  "properties": {
+    "obj-1": {
+      "$ref": "file:/multiple/obj-1.json#"
+    },
+    "obj-2": {
+      "$ref": "file:/multiple/obj-2.json#"
+    },
+    "obj-3": {
+      "$ref": "file:/multiple/obj-3.json#"
+    },
+    "obj-4": {
+      "$ref": "file:/multiple/obj-4.json#"
+    },
+    "obj-5": {
+      "$ref": "file:/multiple/obj-5.json#"
+    },
+    "obj-6": {
+      "$ref": "file:/multiple/obj-6.json#"
+    },
+    "obj-7": {
+      "$ref": "file:/multiple/obj-7.json#"
+    },
+    "obj-8": {
+      "$ref": "file:/multiple/obj-8.json#"
+    },
+    "obj-9": {
+      "$ref": "file:/multiple/obj-9.json#"
+    },
+    "obj-10": {
+      "$ref": "file:/multiple/obj-10.json#"
+    }
+  }
+}

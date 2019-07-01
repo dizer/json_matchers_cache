@@ -1,0 +1,12 @@
+{
+  "id": "file:/multiple/obj-3.json#",
+  "type": "object",
+  "required": [
+    "field"
+  ],
+  "properties": {
+    "field": {
+      "type": "string"
+    }
+  }
+}
